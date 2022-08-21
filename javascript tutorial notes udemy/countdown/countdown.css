@@ -1,0 +1,20 @@
+.container{
+  position:relative;
+}
+
+#img-blur{
+  height:700px;
+  width:100%;
+  opacity:0.8;
+}
+
+#countdown{
+  font-size: 500px;
+  font-family: Lucida Handwriting;
+
+  position:absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%)
+
+}

@@ -1,0 +1,42 @@
+body{
+  background-color:cyan;
+}
+
+
+#add-item{
+  height:100px;
+  width:300px;
+  align-items:  center;
+
+}
+
+#todo-list{
+  height:70px;
+  width:200px;
+
+}
+
+#item1{
+  height:50px;
+  width:400px;
+  background-color:white;
+  text-decoration: none;
+  margin-bottom: 30px;
+
+}
+
+#item2{
+  height:50px;
+  width:400px;
+  background-color:white;
+  text-decoration: none;
+    margin-bottom: 30px;
+}
+
+#item3{
+  height:50px;
+  width:400px;
+  background-color:white;
+  text-decoration: none;
+    margin-bottom: 30px;
+}
